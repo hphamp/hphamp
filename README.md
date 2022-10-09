@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning at <a href="http://dut.udn.vn/">DUT</a>
 ## 🔥 GitHub Stats 🔥
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hphamh&theme=algolia" alt="hphamh" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hphamp&theme=algolia" alt="hphamp" /></p>
 <div> 
   
   ![Snake animation](https://github.com/HelpMe-Pls/HelpMe-Pls/blob/output/github-contribution-grid-snake.svg)
